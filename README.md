@@ -1,1 +1,12 @@
-dot files
+#My dotfiles
+--------------
+
+
+##Steps:
+
+* Install vim, vundle, zsh, oh-my-zsh
+* Clone this repo
+  * `git clone https://github.com/Matthew14/dotfiles.git /clone/path`
+* Symlink some stuff:
+  * `ln -sf /clone/path/.vimrc ~/.vimrc`
+  * `ln -sf /clone/path/.zshrc ~/.zshrc`
