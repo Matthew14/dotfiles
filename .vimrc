@@ -7,7 +7,7 @@ call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdTree'
-Plugin 'valloric/youcompleteme'
+"Plugin 'valloric/youcompleteme'
 
 call vundle#end()
 
