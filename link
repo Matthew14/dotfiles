@@ -1,4 +1,3 @@
 #!/bin/bash
 ln ./.vimrc ~/.vimrc
 ln ./.zshrc ~/.zshrc
-ln ./.gitconfig ~/.gitconfig
