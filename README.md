@@ -1,8 +1,8 @@
-#My dotfiles
+# My dotfiles
 --------------
 
 
-##Steps:
+## Steps:
 
 * Install vim, vundle, zsh, oh-my-zsh
 * Clone this repo
