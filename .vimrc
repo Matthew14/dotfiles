@@ -7,13 +7,13 @@ call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdTree'
-"Plugin 'valloric/youcompleteme'
+Plugin 'tpope/vim-fugitive'
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
 
 call vundle#end()
 
 filetype plugin indent on 
-
-
 
 
 "nerdtree
@@ -21,12 +21,8 @@ filetype plugin indent on
 map <C-n> :NERDTreeToggle<CR>
 
 
-
-
-
-
 set number
-
+set relativenumber
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => VIM user interface
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -85,5 +81,5 @@ set smartindent
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set laststatus=1
 
-set laststatus=2
