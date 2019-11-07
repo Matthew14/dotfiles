@@ -8,4 +8,4 @@
 * Clone this repo
   * `git clone https://github.com/Matthew14/dotfiles.git /clone/path`
 * Symlink some stuff:
-*   ./link
+  *   ./link
